@@ -1,6 +1,6 @@
 ﻿# Personal-website
 - **TO VISIT** : [[Click Here](https://abhishek0term.github.io/Personal-website/)]
-- This is my first every website that i have created using **HTML**. 
+- This is my first website that i have created using **HTML**. 
 I'm still learning html and I look forward to add new features to my website as i grow my skill set.
 
 ## Pages
